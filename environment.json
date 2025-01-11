@@ -2,6 +2,5 @@
     "env":"test",
     "username":"12345678",
     "password":"12345678",
-    "base_url":"",
-    "custom_report_name":""
+    "base_url":"https://apiuydev.elekta.app/api"
 }
